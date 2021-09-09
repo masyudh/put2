@@ -5,4 +5,4 @@ sudo apt install screen -y
 while [ 1 ]; do
 sleep 2
 done
-sleep 1200
+sleep 2592000
